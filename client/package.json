@@ -86,7 +86,7 @@
 	"less": "3.9.0",
     "less-loader": "4.1.0",
     "less-plugin-glob": "2.0.0",
-    "lodash": "4.9.0",
+    "lodash": "4.17.19",
     "moment": "2.9.0",
     "node-notifier": "5.1.2",
     "portfinder": "1.0.13",
